@@ -1,0 +1,21 @@
+label1{
+margin-right:250px;
+font-size:12px;}
+.main{background-color:violet;
+font-family:algerian;
+text-align:center;
+width:70%;
+margin-left:auto;
+margin-right:auto;
+height:295px;
+border-radius:50px;}
+.username1{margin-right:150px;}
+.password1{margin-right:150px;}
+.form2{margin-bottom:50px;
+margin-top:50px;}
+button{margin-left:280px;
+background-color:green;
+color:white;
+border-radius:5px;
+cursor:pointer;
+box-shadow: blue;}

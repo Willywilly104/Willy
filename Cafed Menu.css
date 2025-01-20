@@ -1,0 +1,96 @@
+h1,
+h2,
+p {
+  text-align: center;
+}
+
+body {
+  padding: 2px;
+  font-family: sans-serif;
+  background-image: url(Chapati.jpg);
+}
+
+.menu {
+  width: 80%;
+  background-color: burlywood;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  max-width: 500px;
+}
+
+.flavor,
+.dessert {
+  width: 75%;
+  text-align: left;
+}
+
+.price {
+  font-size: 18px;
+  width: 25%;
+  text-align: right;
+}
+
+.item p {
+  font-size: 18px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  display: inline-block;
+}
+
+h1,
+h2 {
+  font-family: Impact, serif;
+}
+
+.established {
+  font-style: italic;
+}
+
+h1 {
+  font-size: 40px;
+  color: blue;
+}
+
+h2 {
+  font-size: 30px;
+  color: red;
+}
+
+hr {
+  border-color: brown;
+  height: 2px;
+  background-color: brown;
+}
+
+.bottom-line {
+  margin-top: 25px;
+}
+
+/*FOOTER*/
+footer {
+  font-size: 14px;
+}
+
+a {
+  color: black;
+}
+
+a :visited {
+  color: grey;
+}
+
+a :hover {
+  color: brown;
+}
+
+a:active {
+  color: white;
+}
+
+.address {
+  margin-bottom: 5px;
+}
